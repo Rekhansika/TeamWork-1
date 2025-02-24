@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Rohitha Gannamaneedi</h1>
+      <h1>Praveen Vithanala</h1>
     </>
   )
 }
