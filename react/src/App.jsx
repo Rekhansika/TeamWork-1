@@ -12,6 +12,7 @@ function App() {
 
       <h1>Rohitha Gannamaneedi</h1>
       <h1>Praveen Vithanala</h1>
+      <h1>Rekhansika</h1>
 
     </>
   )
